@@ -1,3 +1,2 @@
-#!/bin/bash
-chmod u-r
-chmod 713 hello
+#!/bin/bashr
+chmod 313 hello
